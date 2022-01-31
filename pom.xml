@@ -12,7 +12,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.8.2</version>
-      <scope>test</scope>
+      <scope>venu</scope>
     </dependency>
     <!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
 <dependency>
